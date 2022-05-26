@@ -45,7 +45,7 @@
        <td width="50%">
           <h3 align="center">Tenzies Game</h3>
           <p align="center">
-            <a href="https://tenzies-react.netlify.app/" target="_blank" rel="noreferrer"> <img src="./videos/tenzies.gif" alt="project example"/> </a>
+            <a href="https://tenzies-react.netlify.app/" target="_blank" rel="noreferrer"> <img src="videos/meme-generator.gif" alt="project example"/> </a>
             <span> <a href="#" target="_blank" rel="noreferrer""><img src="./icons/repo.svg" alt="button to repository" height ="25px"></a> <a href="https://tenzies-react.netlify.app/" target="_blank" rel="noreferrer"><img src="./icons/website.svg" alt="button to live site" height="25px"></a></span>
             <p align="center">
               roll the dice to win the tenzies
