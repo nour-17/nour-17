@@ -1,8 +1,7 @@
-<img align="center" width="100%" src="images/banner.gif"/>
+<img align="center" width="100%" src="images/space-banner.png"/>
 <br>
-<p> nour  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="16"> a self-taught front-end developer lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam consequat aliquam dui tincidunt mattis. Fusce finibus semper dui, ut efficitur nunc fermentum eget. Morbi ultricies tellus nec purus eleifend tincidunt. Vivamus porta porta porta. Fusce sodales </p>
-<hr>
-
+<img align="center" width="100%" src="https://readme-typing-svg.herokuapp.com?font=VT323&size=40&color=c9d1d9&center=true&vCenter=true&lines=a+Software+Developer;learning+enthusiast;%E5%96%84%E6%9C%89%E5%96%84%E6%8A%A5"/>
+<br/>
 <h2> about me:</h2>
 <p>hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="16"> my name is Nour-eldeen Hamdy iam a self-taught front-end developer, i'm passionate about making the web a little better by making creative and usefull web apps, i have experience working with HTML5, CSS3, JavaScript, and React.js and i'm always up to learning new technologies <3 </p>
 <hr>
@@ -64,6 +63,6 @@
 <h2 align="center">lets connect</h2>
 <div align="center">
 <a href="https://twitter.com/nnourhamdyy/"><img width="50px" src="./icons/twitter.svg"/></a>  
-<a href="https://discordapp.com/users/nnourhamdyy#0789/"><img width="50px" src="./icons/discord.svg"/></a>  
+<a href="https://discordapp.com/users/717986178632122427/"><img width="50px" src="./icons/discord.svg"/></a>  
 <a href="https://www.linkedin.com/in/nour-hamdy-579b41211/"><img width="50px" src="./icons/linkedin.svg"/></a>
 </div>
