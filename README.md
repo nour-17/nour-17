@@ -6,7 +6,7 @@
 <p>hey im nour  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="16"> a self-taught front-end developer lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam consequat aliquam dui tincidunt mattis. Fusce finibus semper dui, ut efficitur nunc fermentum eget. Morbi ultricies tellus nec purus eleifend tincidunt. Vivamus porta porta porta. Fusce sodales </p>
 <hr>
 
-<h2 align="left"><img src="./icons/arrow.svg" alt="arrow icon" height="20px"> Projects:</h2>
+<h2 align="left">Projects:</h2>
 <div align="center">
   <table>
       <tr>
@@ -45,7 +45,7 @@
        <td width="50%">
           <h3 align="center">Tenzies Game</h3>
           <p align="center">
-            <a href="https://tenzies-react.netlify.app/" target="_blank" rel="noreferrer"> <img src="videos/meme-generator.gif" alt="project example"/> </a>
+            <a href="https://tenzies-react.netlify.app/" target="_blank" rel="noreferrer"> <img src="videos/tenzies.gif" alt="project example"/> </a>
             <span> <a href="#" target="_blank" rel="noreferrer""><img src="./icons/repo.svg" alt="button to repository" height ="25px"></a> <a href="https://tenzies-react.netlify.app/" target="_blank" rel="noreferrer"><img src="./icons/website.svg" alt="button to live site" height="25px"></a></span>
             <p align="center">
               roll the dice to win the tenzies
