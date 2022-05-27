@@ -1,6 +1,5 @@
-<img src="./images/cover.png">
-<br>
 <img align="center" width="100%" src="images/banner.gif"/>
+<br>
 
 <h2> about me:</h2>
 <p>hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="16"> my name is Nour-eldeen Hamdy iam a self-taught front-end developer, i'm passionate about making the web a little better by making creative and usefull web apps, i have experience working with <img src="/icons/html.svg" alt="html-icon" width= "15"/>, <img src="/icons/css.svg" alt="css-icon" width= "15"/>, <img src="/icons/js.svg" alt="js-icon" width= "15"/>and <img src="/icons/react.svg" alt="react-icon" width= "15"/> and i'm always up to learning new technologies </p>
