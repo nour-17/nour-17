@@ -1,9 +1,9 @@
 <img src="./images/cover.png">
 <br>
-<img align="center" width="100%" src="https://readme-typing-svg.herokuapp.com?font=VT323&size=40&color=c9d1d9&center=true&vCenter=true&lines=a+Software+Developer;learning+enthusiast;%E5%96%84%E6%9C%89%E5%96%84%E6%8A%A5"/>
+<img align="center" width="100%" src="images/banner.gif"/>
 
-<h2> about me</h2>
-<p>hey im nour  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="16"> a self-taught front-end developer lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam consequat aliquam dui tincidunt mattis. Fusce finibus semper dui, ut efficitur nunc fermentum eget. Morbi ultricies tellus nec purus eleifend tincidunt. Vivamus porta porta porta. Fusce sodales </p>
+<h2> about me:</h2>
+<p>hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="16"> my name is Nour-eldeen Hamdy iam a self-taught front-end developer, i'm passionate about making the web a little better by making creative and usefull web apps, i have experience working with <img src="/icons/html.svg" alt="html-icon" width= "15"/>, <img src="/icons/css.svg" alt="css-icon" width= "15"/>, <img src="/icons/js.svg" alt="js-icon" width= "15"/>and <img src="/icons/react.svg" alt="react-icon" width= "15"/> and i'm always up to learning new technologies </p>
 <hr>
 
 <h2 align="left">Projects:</h2>
@@ -24,7 +24,7 @@
           <h3 align="center">Quizzical</h3>
           <p align="center">
             <a href="https://quizzicall.netlify.app/" target="_blank" rel="noreferrer"> <img src="./videos/quizzical.gif" alt="project example"/> </a>
-            <span> <a href="https://quizzicall.netlify.app/" target="_blank" rel="noreferrer"><img src="./icons/repo.svg" alt="button to repository" height ="25px"></a> <a href="" target="_blank" rel="noreferrer"><img src="./icons/website.svg" alt="button to live site" height="25px"></a> </span>
+            <span> <a href="https://github.com/nour-17/quizzical" target="_blank" rel="noreferrer"><img src="./icons/repo.svg" alt="button to repository" height ="25px"></a> <a href="https://quizzicall.netlify.app/" target="_blank" rel="noreferrer"><img src="./icons/website.svg" alt="button to live site" height="25px"></a> </span>
             <p align="center">
               how much do you know ?
             </p>
@@ -36,7 +36,7 @@
           <h3 align="center">Meme Generator</h3>
           <p align="center">
             <a href="https://react-meme-generatorr.netlify.app/" target="_blank" rel="noreferrer"> <img src="./videos/meme-generator.gif" alt="project example"/> </a>
-            <span> <a href="#" target="_blank" rel="noreferrer"><img src="./icons/repo.svg" alt="button to repository" height ="25px"></a> <a href="https://react-meme-generatorr.netlify.app/" target="_blank" rel="noreferrer"><img src="./icons/website.svg" alt="button to live site" height="25px"></a></span>
+            <span> <a href="https://github.com/nour-17/meme-generator" target="_blank" rel="noreferrer"><img src="./icons/repo.svg" alt="button to repository" height ="25px"></a> <a href="https://react-meme-generatorr.netlify.app/" target="_blank" rel="noreferrer"><img src="./icons/website.svg" alt="button to live site" height="25px"></a></span>
             <p align="center">
               100 images of the most popular memes 
             </p>
@@ -46,7 +46,7 @@
           <h3 align="center">Tenzies Game</h3>
           <p align="center">
             <a href="https://tenzies-react.netlify.app/" target="_blank" rel="noreferrer"> <img src="videos/tenzies.gif" alt="project example"/> </a>
-            <span> <a href="#" target="_blank" rel="noreferrer""><img src="./icons/repo.svg" alt="button to repository" height ="25px"></a> <a href="https://tenzies-react.netlify.app/" target="_blank" rel="noreferrer"><img src="./icons/website.svg" alt="button to live site" height="25px"></a></span>
+            <span> <a href="https://github.com/nour-17/Tenzies" target="_blank" rel="noreferrer"><img src="./icons/repo.svg" alt="button to repository" height ="25px"></a> <a href="https://tenzies-react.netlify.app/" target="_blank" rel="noreferrer"><img src="./icons/website.svg" alt="button to live site" height="25px"></a></span>
             <p align="center">
               roll the dice to win the tenzies
             </p>
